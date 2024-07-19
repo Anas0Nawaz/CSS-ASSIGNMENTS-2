@@ -1,0 +1,148 @@
+.mainbody {
+    h1 {
+        color: black;
+        text-align: center;
+        text-shadow: 10px 10px 5px lightcyan;
+
+    }
+
+    p {
+        text-align: center;
+        font-family: cursive;
+    }
+
+    a:link {
+        color: rgb(67, 66, 66);
+        text-decoration: none;
+
+    }
+
+    a:visited {
+        color: dimgrey;
+    }
+
+    a:hover {
+        color: rgb(5, 20, 20);
+        text-decoration: underline;
+    }
+}
+
+.body1 {
+
+
+    .div1 {
+        background: silver;
+
+        border-width: 4px;
+        border-style: ridge;
+        border-color: rgb(219, 145, 219);
+
+        padding-top: 20px;
+
+        padding-bottom: 20px;
+
+
+        margin-top: 50px;
+        margin-right: 200px;
+        margin-bottom: 50px;
+        margin-left: 200px;
+
+    }
+
+    img {
+        background: plum;
+        margin-right: 100px;
+        margin-left: 170px;
+        display: block;
+        border-radius: 100px;
+    }
+
+    h1 {
+        text-align: center;
+        font-family: cursive;
+    }
+
+    .para1 {
+        overflow: scroll;
+        min-width: 300px;
+        max-width: 600px;
+        min-height: 200px;
+        max-height: 200px;
+        font-family: cursive;
+        margin-left: 150px;
+    }
+
+    .para2 {
+        font-family: cursive;
+        margin-left: 150px;
+
+    }
+
+    a {
+        color: rgb(76, 1, 76);
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: brown;
+        text-decoration: underline;
+    }
+
+}
+
+.body2 {
+    .div1 {
+        margin-top: 40px;
+        margin-right: 100px;
+        margin-bottom: 40px;
+        margin-left: 100px;
+
+        padding-top: 20px;
+
+        padding-bottom: 200px;
+
+
+
+
+        background: rgb(78, 75, 75);
+
+        h1 {
+            color: cornsilk;
+        }
+
+        .para1 {
+            background: darkgrey;
+
+            height: 60px;
+            padding-top: 30px;
+        }
+
+        .para2 {
+            color: bisque;
+        }
+
+        a {
+            margin-top: 200px;
+            margin-left: 200px;
+            font-size: larger;
+            color: rgb(13, 48, 49);
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: rgb(107, 103, 103);
+            text-decoration: underline;
+        }
+    }
+
+    a {
+        color: darkslategrey;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: dimgray;
+        text-decoration: underline;
+    }
+
+}
